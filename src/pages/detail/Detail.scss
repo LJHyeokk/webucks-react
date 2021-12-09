@@ -1,0 +1,152 @@
+.junhyeok {
+  .container {
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 100px;
+
+    .detail-img {
+      margin-top: 50px;
+      width: 48%;
+      height: 750px;
+      background-position: center top;
+      float: left;
+      img {
+        width: 100%;
+        height: 100%;
+      }
+    }
+
+    .detail-info {
+      float: right;
+      margin-top: 50px;
+      width: 48%;
+      height: 750px;
+      .like {
+        float: right;
+      }
+      .smallP {
+        font-size: 15px;
+        margin-top: 0;
+        padding-bottom: 20px;
+        border-bottom: 3px solid black;
+      }
+      .info {
+        margin-bottom: 50px;
+      }
+      .item-info {
+        display: inline-block;
+        font-size: 30px;
+      }
+      .item-span {
+        margin-top: 40px;
+        float: right;
+      }
+      .item {
+        border-top: 1px solid grey;
+        border-bottom: 1px solid grey;
+      }
+      .detail-kcal {
+        margin-bottom: 40px;
+        margin-top: 10px;
+        display: flex;
+        justify-content: space-between;
+      }
+      .title {
+        display: inline-block;
+        margin-top: 0;
+        margin-bottom: 0;
+        font-size: 30px;
+      }
+    }
+  }
+  .detail-info .division {
+    width: 50%;
+  }
+
+  .kcal {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 10px;
+    border-right: 1px dotted grey;
+  }
+  .kcal2 {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 10px;
+  }
+
+  .알러지 {
+    background-color: rgb(226, 223, 223);
+    padding: 20px;
+    font-weight: bold;
+    border: none;
+  }
+
+  .review h2 {
+    margin-top: 15px;
+    margin-bottom: 10px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid grey;
+  }
+
+  .like {
+    cursor: pointer;
+  }
+
+  .bottom-bar {
+    position: fixed;
+    bottom: 20px;
+    display: flex;
+    background-color: slategray;
+    color: whitesmoke;
+    width: 60%;
+    margin-left: 20%;
+    justify-content: space-evenly;
+    font-size: 13px;
+    font-weight: 600;
+  }
+
+  .bottom-bar-section {
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding-bottom: 20px;
+      padding-left: 0;
+    }
+    li {
+      padding-bottom: 5px;
+    }
+    p {
+      margin-top: 40px;
+    }
+  }
+
+  #commentInput {
+    margin-top: 10px;
+    padding: 5px;
+    background-color: rgb(226, 223, 223);
+    border: none;
+    border-radius: 1px;
+  }
+
+  .commentBox {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+  }
+
+  .deleteBtn {
+    font-size: 4px;
+    font-weight: bold;
+    width: 60px;
+    cursor: pointer;
+    background-color: thistle;
+    border: none;
+    border-radius: 5px;
+    color: ghostwhite;
+  }
+
+  .likeBtn {
+    cursor: pointer;
+  }
+}

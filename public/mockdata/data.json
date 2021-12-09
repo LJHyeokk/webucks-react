@@ -1,0 +1,33 @@
+{
+  "cold": [
+    { "img": "/images/coffee1.png", "name": "토피 넛 콜드 브루" },
+    { "img": "/images/coffee2.png", "name": "나이트로 바닐라 크림" },
+    { "img": "/images/coffee3.png", "name": "나이트로 콜드 브루" },
+    { "img": "/images/coffee4.png", "name": "돌체 콜드 브루" },
+    { "img": "/images/coffee5.png", "name": "바닐라 크림 콜드 브루" },
+    { "img": "/images/coffee6.png", "name": "벨벳 다크 모카 나이트로" },
+    { "img": "/images/coffee7.png", "name": "시그니처 더 블랙 콜드 브루" },
+    { "img": "/images/coffee8.png", "name": "제주 비자림 콜드 브루" },
+    { "img": "/images/coffee9.png", "name": "콜드 브루" },
+    { "img": "/images/coffee10.png", "name": "콜드 브루 몰트" },
+    { "img": "/images/coffee11.png", "name": "콜드 브루 오트 라떼" },
+    { "img": "/images/coffee12.png", "name": "콜드 브루 플로트" },
+    { "img": "/images/coffee13.png", "name": "프렌치 애플 타르트 나이트로" }
+  ],
+  "shot": [
+    { "img": "/images/coffeeshot1.png", "name": "아이스 토피 넛 라떼" },
+    { "img": "/images/coffeeshot2.png", "name": "토피 넛 라떼" },
+    { "img": "/images/coffeeshot3.png", "name": "에스프레소 콘 파나" },
+    { "img": "/images/coffeeshot4.png", "name": "에스프레소 마키아또" },
+    { "img": "/images/coffeeshot5.png", "name": "아이스 카페 아메리카노" },
+    { "img": "/images/coffeeshot6.png", "name": "카페 아메리카노" },
+    { "img": "/images/coffeeshot7.png", "name": "아이스 카라멜 마키아또" },
+    { "img": "/images/coffeeshot8.png", "name": "카라멜 마키아또" },
+    { "img": "/images/coffeeshot9.png", "name": "아이스 카푸치노" },
+    { "img": "/images/coffeeshot10.png", "name": "카푸치노" },
+    { "img": "/images/coffeeshot11.png", "name": "라벤더 카페 브레베" },
+    { "img": "/images/coffeeshot12.png", "name": "럼 샷 코르타도" },
+    { "img": "/images/coffeeshot13.png", "name": "바닐라 빈 라떼" },
+    { "img": "/images/coffeeshot14.png", "name": "블론드 에스프레소 라떼" }
+  ]
+}
